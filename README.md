@@ -15,7 +15,7 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/thamerh/generate-qr-code-using-reactjs.git
+git clone https://github.com/
 ```
 
 2. Navigate to the project directory:
@@ -66,4 +66,4 @@ Contributions are welcome! If you find any issues or would like to add new featu
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact the project maintainer at [hamdithamer99@gmail.com](mailto:hamdithamer99@gmail.com).
+If you have any questions or suggestions, feel free to contact the project maintainer at [mr.hackerbuddys@gmail.com](mailto:mr.hackerbuddys@gmail.com).

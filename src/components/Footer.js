@@ -1,7 +1,7 @@
 function Footer() {
    return (
       <footer className="attribution">
-         <p>developed by <a href="https://github.com/thamerh" target="_blank" rel="noreferrer">Thamer Hamdi</a></p>
+         <p>developed by <a href="https://github.com/" target="_blank" rel="noreferrer">Hackerbuddy</a></p>
       </footer>
    );
 }

@@ -322,7 +322,7 @@ input:active {
   width: 20rem;
 }
 .card .qr-box canvas {
-  border-radius: 0.8rem;
+  border-radius: 0.0rem;
   transition: var(--cubic-bezier);
   z-index: 98;
 }

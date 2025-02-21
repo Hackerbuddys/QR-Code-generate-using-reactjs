@@ -58,14 +58,14 @@ function App() {
       <article className="card">
         <div id="canvas" className="qr-box">
           <QRCodeCanvas
-            value={url ? url : "https://github.com/thamerh"}
+            value={url ? url : "https://google.com"}
             size={300}
             bgColor={"#ffffff"}
-            fgColor={"#0a75ad"}
+            fgColor={"#000000"}
             level={"H"}
             includeMargin={false}
             imageSettings={{
-              src: "/thamer.jpg",
+              // src: "/thamer.jpg",
               x: undefined,
               y: undefined,
               height: 60,
