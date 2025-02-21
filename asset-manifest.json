@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QR-Code-generate-using-reactjs/static/css/main.a1ac3882.css",
+    "main.js": "/QR-Code-generate-using-reactjs/static/js/main.d3e0f080.js",
+    "index.html": "/QR-Code-generate-using-reactjs/index.html",
+    "main.a1ac3882.css.map": "/QR-Code-generate-using-reactjs/static/css/main.a1ac3882.css.map",
+    "main.d3e0f080.js.map": "/QR-Code-generate-using-reactjs/static/js/main.d3e0f080.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1ac3882.css",
+    "static/js/main.d3e0f080.js"
+  ]
+}
