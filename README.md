@@ -15,7 +15,7 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/
+git clone https://github.com/Hackerbuddys/QR-Code-generate-using-reactjs
 ```
 
 2. Navigate to the project directory:
